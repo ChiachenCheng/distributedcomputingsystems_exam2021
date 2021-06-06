@@ -1,5 +1,3 @@
-<font color=red>请在生成的学生试题仓库修改 "???" 处, 并删除本行</font>
-
 # 大师编程 (DaSE Programming) 训练平台
 
 ![](./logo.jpg)
@@ -10,13 +8,13 @@
 - 在注册页面填入相关的信息，信息填写的相关要求如下
   - First Name/Last Name: 请使用汉语拼音 
   - University: 选 other, 填 ECNU
-  - Semester: ???
-  - Matriculation Number: 年份+序号, 不足六位请在序号前面补 0 (例如, 今年为???年，序号为8的同学, 此处填写 ???08;
-    序号为 18 的同学, 此处填写 ???18; 依此类推)
+  - Semester: 2
+  - Matriculation Number: 年份+序号, 不足六位请在序号前面补 0 (例如, 今年为2021年，序号为8的同学, 此处填写 202108;
+    序号为 18 的同学, 此处填写 202118; 依此类推)
 
 #### 2. 访问DIMA Evaluation Tool试题
 
-- 在Current Courses选项下选择???课程
+- 在Current Courses选项下选择2021-Distributed Computing Systems (Exam)课程
 
   然后在下图所示的界面中输入密码即可看到试题（Assignments），**密码将另行通知。**
 
