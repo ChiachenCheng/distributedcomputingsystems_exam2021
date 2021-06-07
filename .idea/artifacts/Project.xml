@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Project">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project</output-path>
+    <root id="archive" name="Project.jar">
+      <element id="module-output" name="distributedcomputingsystems_exam2021" />
+      <element id="module-source" name="distributedcomputingsystems_exam2021" />
+    </root>
+  </artifact>
+</component>
