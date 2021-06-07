@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Twitter">
+    <output-path>$PROJECT_DIR$/out/artifacts/Twitter</output-path>
+    <root id="archive" name="Twitter.jar">
+      <element id="module-output" name="distributedcomputingsystems_exam2021" />
+      <element id="module-source" name="distributedcomputingsystems_exam2021" />
+    </root>
+  </artifact>
+</component>
